@@ -5,4 +5,5 @@ hong kong
 taipei
 tokyo
 bangkok
+manila
 
